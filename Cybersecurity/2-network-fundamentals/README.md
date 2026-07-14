@@ -4,7 +4,7 @@ This module covers the building blocks of how computer networks actually work, t
 
 ## What's inside
 
-- [`2.1-africahackon-http-cap-analysis`](./2.1-africahackon-http-cap-analysis) — a hands on Wireshark walkthrough tracing a real HTTP conversation packet by packet, from DNS lookup through the TCP handshake to the final response
+- [`2.1-http-cap-analysis`](./2.1-africahackon-http-cap-analysis) — a hands on Wireshark walkthrough tracing a real HTTP conversation packet by packet, from DNS lookup through the TCP handshake to the final response
 
 ## Core concepts covered
 
