@@ -4,33 +4,46 @@
   <img src="./assets/logo.png" width="90" alt="Victor Chege logo" />
 </p>
 
-This repository documents my hands-on journey studying cybersecurity — labs, assignments, and exercises completed as part of my coursework. Each subject is organized as a numbered module, with individual assignments nested underneath it, showing both the theory I've learned and the practical evidence of applying it.
+# Cybersecurity Portfolio
 
-## ⚠️ Scope & Ethics Disclaimer
+This repository is where I document my hands-on work as I continue building my cybersecurity skills. It's a collection of practical labs, research, and projects that help me understand how security concepts apply in real-world scenarios.
 
-All activity documented here is conducted for **educational purposes only**, within the scope authorized by my course/instructor. No technique here should be applied against any system, domain, or network without explicit permission. Passive/OSINT techniques are clearly distinguished from active techniques in each report.
+My goal isn't just to learn how to use security tools, but to understand the reasoning behind them, analyze the results, and document the process in a clear and professional way. Every project reflects what I explored, the approach I took, what I discovered, and the lessons I learned along the way.
 
-## 📚 Modules
+As I continue growing in the field, this portfolio will grow with me.
 
-| # | Subject | Status |
-|---|---------|--------|
-| 1 | [Reconnaissance & Footprinting](./1-recon-and-footprinting/) | 🟢 In progress |
-| 2 | [Linux](./2-linux/) | ⏳ Planned |
+## Ethics
 
-*(More modules will be added as the course progresses.)*
+Everything documented in this repository is carried out in authorized environments, including training labs and systems designed for learning. The content is shared for educational and professional development purposes only and should never be used against systems without proper authorization.
 
-## About
+## Portfolio
 
-I'm currently upskilling in cybersecurity and using this repo to track my progress, reinforce what I learn by documenting it clearly, and build a portfolio that reflects genuine hands-on understanding — not just tool output.
+| # | Domain                                                       | Status      |
+| - | ------------------------------------------------------------ | ----------- |
+| 1 | [Reconnaissance & Footprinting](./1-recon-and-footprinting/) | In Progress |
+| 2 | [Linux](./2-linux/)                                          | Coming Soon |
 
-## How each module is structured
+More topics will be added as I continue exploring different areas of cybersecurity.
 
+## Why I Built This
+
+I created this repository to keep track of my progress, strengthen my understanding through hands-on practice, and build a portfolio that reflects my work over time.
+
+It also serves as a way to share what I'm learning and demonstrate how I approach technical challenges, document my findings, and continue improving with every project.
+
+## Repository Structure
+
+```text
+domain-name/
+├── README.md
+│   └── Topic overview and key concepts
+│
+└── project-name/
+    ├── report.md
+    │   └── Objective, methodology, findings, analysis and conclusions
+    │
+    └── screenshots/
+        └── Supporting evidence
 ```
-N-subject-name/
-├── README.md              → Concept overview: what the topic is, why it matters, key terms
-└── N.N-assignment-name/
-    ├── report.md           → Full write-up: methodology, tools, evidence, findings, analysis
-    └── screenshots/        → Supporting evidence
-```
 
-Feel free to explore any module above to see the write-ups in full.
+Thanks for stopping by. I hope this portfolio gives you a clear view of my growth, my approach to problem-solving, and my commitment to building practical cybersecurity skills.
