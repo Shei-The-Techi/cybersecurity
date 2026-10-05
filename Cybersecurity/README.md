@@ -16,15 +16,6 @@ As I continue growing in the field, this portfolio will grow with me.
 
 Everything documented in this repository is carried out in authorized environments, including training labs and systems designed for learning. The content is shared for educational and professional development purposes only and should never be used against systems without proper authorization.
 
-## Portfolio
-
-| # | Domain                                                       | Status      |
-| - | ------------------------------------------------------------ | ----------- |
-| 1 | [Reconnaissance & Footprinting](./1-recon-and-footprinting/) | In Progress |
-| 2 | [Linux](./2-linux/)                                          | Coming Soon |
-
-More topics will be added as I continue exploring different areas of cybersecurity.
-
 ## Why I Built This
 
 I created this repository to keep track of my progress, strengthen my understanding through hands-on practice, and build a portfolio that reflects my work over time.
