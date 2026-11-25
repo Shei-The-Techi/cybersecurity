@@ -10,7 +10,7 @@ Almost every website and business application stores its information in a databa
 
 More projects will be added here as I complete them.
 
-## The key ideas in plain language
+## The key ideas is?
 
 **Database.** A database is an organized store of information, like a very well structured spreadsheet that many programs can use at the same time.
 
