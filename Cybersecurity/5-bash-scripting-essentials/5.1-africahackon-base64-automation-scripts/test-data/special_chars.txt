@@ -1,0 +1,4 @@
+my pass word
+$HOME
+"quoted"
+back\slash
