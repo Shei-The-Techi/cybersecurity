@@ -1,4 +1,4 @@
-# Module 4: Coding and MySQL Integration
+# Module 4: Coding and MySQL
 
 Almost every website and business application stores its information in a database. This module is about how code talks to a database, and how to do it safely. It starts with Class 1, which covers object oriented programming, APIs and MySQL integration, and its first hands on lab is a small student records application.
 
@@ -10,7 +10,7 @@ Almost every website and business application stores its information in a databa
 
 More projects will be added here as I complete them.
 
-## The key ideas is?
+## The key ideas in plain language
 
 **Database.** A database is an organized store of information, like a very well structured spreadsheet that many programs can use at the same time.
 
